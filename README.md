@@ -1,4 +1,4 @@
-# NuxtJS SSR & Tailwind CSS Boilerplate Setup Application (JavaScript base)
+# Nuxt JS SRR Boilerplate Application for Version 2.. + Tailwind CSS (Javascript Base)
 
 Setup boilerplate application for development, staging and production with some modules:
 
