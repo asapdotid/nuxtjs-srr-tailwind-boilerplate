@@ -37,7 +37,6 @@ export default {
 
   // Tailwind configuration: https://tailwindcss.nuxtjs.org/setup/
   tailwindcss: {
-    jit: true,
     exposeConfig: false,
     viewer: false,
     config: {},

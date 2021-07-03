@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'jit',
   purge: {
     // enable remove unused CSS only in production
     enabled: process.env.NODE_ENV === 'production',
