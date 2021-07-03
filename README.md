@@ -562,7 +562,7 @@ PM2 ecosystem config `ecosystem.config.js`:
 module.exports = {
   apps: [
     {
-      name: 'restaurant-staging-app',
+      name: 'staging-app',
       exec_mode: 'cluster',
       instances: 2,
       script: 'nuxt-start',
@@ -577,7 +577,7 @@ module.exports = {
       },
     },
     {
-      name: 'restaurant-production-app',
+      name: 'production-app',
       exec_mode: 'cluster',
       instances: 2,
       script: 'nuxt-start',
